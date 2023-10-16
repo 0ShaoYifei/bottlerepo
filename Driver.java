@@ -6,6 +6,8 @@ public class Driver {
         System.out.println("Bottle App V 1.0");
         bottle1.setDetails();
         bottle1.print();
+        bottle bottle2=new bottle(99,99);
+        bottle2.print();
         
     }
 }

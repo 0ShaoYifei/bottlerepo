@@ -16,6 +16,7 @@ public class bottle {
     public void setVolume(int volume) {
         this.volume = volume;
     }
+
     public  void setDetails(){
         Scanner input=new Scanner(System.in);
         System.out.println("Please enter a Height:");
